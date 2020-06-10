@@ -3,6 +3,43 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.9.0](https://m7kvqbe1.github.com/Royal-Navy/design-system/compare/2.6.0...2.9.0) (2020-06-10)
+
+
+### Bug Fixes
+
+* **DatePicker:** Set Input field to readOnly ([74ce275](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/74ce2753e1aaf6a589737ca5fab2fdce5d0235ad))
+* **Modal:** Fix font weight and button alignment ([3581761](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/35817619d48749a0b88ecb34c1ab8e82775f3124))
+* **Pagination:** Assign keys to page numbers ([e2cfb2c](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/e2cfb2c7963d8e0c4d5e288ec6602f801005b836))
+* **Select:** Add ability to drill data-testid ([46aabf3](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/46aabf341798535dd0b09c3639694e824915d95d))
+* **timeline:** Generate correct number of calendar weeks ([38c6999](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/38c699927aa880b825c20b1a2414eb55b284f568))
+* **timeline:** Set z-index for custom TodayMarker example ([713b9c5](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/713b9c5e30403b03a287cf2c85e25ce830bcbf55))
+* **Timeline:** Add missing `range` prop ([1631041](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/163104135553ce6166262770f2b21508b46b0916))
+* **Timeline:** Cast to array if single row ([9b801d1](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/9b801d1a85510de8e6e4791e63d05b861dcc3375))
+* **Timeline:** Conditionally render TimelineSide headings ([8a9f3ea](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/8a9f3eab00ff3b7ce410baed5275c7ce1bf1bb16))
+* **Timeline:** Export TIMELINE_ACTIONS ([926694d](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/926694d22d74b3ddbdf5b9e76ef46b920856148c))
+* Replace references to "Standards" ([bebc5cd](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/bebc5cd920b0ae959185f4b754ddbf7fa1ad7d4f))
+* update email address ([e568d5f](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/e568d5f0ec77e1cbb1ad77e43ce45859dbb00c0a))
+
+
+### Features
+
+* **ButtonGroup:** Reuse button size constant ([7f7ce6a](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/7f7ce6ad50234acfcbfa4ee0a6e21049daf277bd))
+* **Drawer:** Replace unicode close icon for icon library SVG ([6412efd](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/6412efde696cc98c5c34c85831d2231526080baf))
+* **NumberInput:** Add prop to condense component ([2beeb94](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/2beeb94965fc3232a1a01e70054d209cc4ce16e6))
+* **Pagination:** Adjust pagination design to match Sketch file ([24f1d11](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/24f1d112bf4c392ecf3ee5298c160a6edf9ac362))
+* **Switch:** Add constants ([25bd4b8](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/25bd4b8ee883c357246d02bb445c7083632e03f1))
+* **Tab Set:** Fix colour contrast of inactive tabs for a11y ([6fb48e1](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/6fb48e1eaad24b87c2899121abe9ced29b2caf8a))
+* **timeline:** Add TimelineRows render prop ([38d7ee3](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/38d7ee3fbbdc5affb3e125c9eba2341dd445b67f))
+* **timeline:** Enable sidebar in stories ([4990a3f](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/4990a3f50844e0401814439216e20f4853af8f68))
+* **timeline:** Expose Timeline to consumers ([0865d69](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/0865d69b3cc8fd81e3bd213b9e539c377cffa4d6))
+* **timeline:** Implement TimelineWeeks render prop ([fc0327e](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/fc0327eb9103798b3622ef98c626be246816d325))
+* **Tooltip:** Add constants ([7d4b399](https://m7kvqbe1.github.com/Royal-Navy/design-system/commit/7d4b399a62296bca622ac719b45436da7b4c0d4d))
+
+
+
+
+
 # [2.8.0](https://m7kvqbe1.github.com/Royal-Navy/design-system/compare/2.6.0...2.8.0) (2020-06-04)
 
 

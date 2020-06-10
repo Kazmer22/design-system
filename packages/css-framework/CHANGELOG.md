@@ -3,6 +3,44 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.9.0](https://github.com/Royal-Navy/design-system/compare/2.6.0...2.9.0) (2020-06-10)
+
+
+### Bug Fixes
+
+* **Modal:** Fix font weight and button alignment ([3581761](https://github.com/Royal-Navy/design-system/commit/35817619d48749a0b88ecb34c1ab8e82775f3124))
+* **TabSet:** Explicitly set tab background ([4ab1dbe](https://github.com/Royal-Navy/design-system/commit/4ab1dbe8380a821679ee256568a80a378c9d4516))
+* **Typography:** Set <p>, <ol>, and <li> to the same size. Fixes [#456](https://github.com/Royal-Navy/design-system/issues/456) ([3c124cc](https://github.com/Royal-Navy/design-system/commit/3c124ccdbb53facbbe21323ccac79a21d108299d))
+* Replace references to "Standards" ([bebc5cd](https://github.com/Royal-Navy/design-system/commit/bebc5cd920b0ae959185f4b754ddbf7fa1ad7d4f))
+* **masthead:** Decrease font size of navigation link ([66bd14a](https://github.com/Royal-Navy/design-system/commit/66bd14a3d2b34711bc8df749ff38871eea0f32c5))
+
+
+### Features
+
+* **Alert:** Improve colour contrast to pass A11y checks ([f419c54](https://github.com/Royal-Navy/design-system/commit/f419c54259a13c5e194e5c04f0191634bd7faf3e))
+* **Badge:** Increase colour contrasts to pass a11y checks ([22601e9](https://github.com/Royal-Navy/design-system/commit/22601e9fe1352c9236468787b003cb9e32539a43))
+* **Button:** Increase Tertiary Danger button text to pass a11y ([475bedf](https://github.com/Royal-Navy/design-system/commit/475bedf799f111fe87f38b1f2653b420acc8eaef))
+* **Button:** Remove gradient to improve a11y ([855fd0c](https://github.com/Royal-Navy/design-system/commit/855fd0c7348d110b27a84cd23704156b8a6cddf0))
+* **Date Picker:** Increase label colour contrast for a11y ([580e952](https://github.com/Royal-Navy/design-system/commit/580e9521eb3dbfb6be5de666c013237eb7a5477e))
+* **DocsSite:** Add Timeline framework docs ([3194f9d](https://github.com/Royal-Navy/design-system/commit/3194f9d657c1ea2e5e79732501231f355b1b27d5))
+* **Masthead:** Increase inactive tab contrast for a11y ([c2b68f5](https://github.com/Royal-Navy/design-system/commit/c2b68f52a42591b35091fc4b5d1041574eed7db5))
+* **Nav:** Add styles to counter bleeding global styles ([c043d26](https://github.com/Royal-Navy/design-system/commit/c043d26426d45c68f0232319ae8b8deae49864ca))
+* **Number Input:** Increase label contrast for a11y ([a6ede52](https://github.com/Royal-Navy/design-system/commit/a6ede5248c9431932f187c2cd85ebf61b0506280))
+* **NumberInput:** Add prop to condense component ([2beeb94](https://github.com/Royal-Navy/design-system/commit/2beeb94965fc3232a1a01e70054d209cc4ce16e6))
+* **Pagination:** Adjust pagination design to match Sketch file ([24f1d11](https://github.com/Royal-Navy/design-system/commit/24f1d112bf4c392ecf3ee5298c160a6edf9ac362))
+* **Select:** Increase label contrast for a11y ([96e19b0](https://github.com/Royal-Navy/design-system/commit/96e19b0dc3f6ce82d3b1bb565295099dee304fba))
+* **Switch:** Add new design to improve a11y ([cb7ac88](https://github.com/Royal-Navy/design-system/commit/cb7ac8812e8902d13e0a30b6824b274575297390))
+* **Tab Set:** Fix colour contrast of inactive tabs for a11y ([6fb48e1](https://github.com/Royal-Navy/design-system/commit/6fb48e1eaad24b87c2899121abe9ced29b2caf8a))
+* **Text Input:** Increase label contrast for a11y ([a15da38](https://github.com/Royal-Navy/design-system/commit/a15da3859a8c098baf77539caecc52c138560574))
+* **Textarea:** Increase label contrast for a11y ([511407a](https://github.com/Royal-Navy/design-system/commit/511407a0670fbad4966c538c6fbea0568691709b))
+* **timeline:** Add TimelineRows render prop ([38d7ee3](https://github.com/Royal-Navy/design-system/commit/38d7ee3fbbdc5affb3e125c9eba2341dd445b67f))
+* **timeline:** Implement TimelineWeeks render prop ([fc0327e](https://github.com/Royal-Navy/design-system/commit/fc0327eb9103798b3622ef98c626be246816d325))
+* **Toast:** Increase time and close button contrast for a11y ([1b41c76](https://github.com/Royal-Navy/design-system/commit/1b41c769a3e98ac16a17c9b79a8aef8b183ecdbd))
+
+
+
+
+
 # [2.8.0](https://github.com/Royal-Navy/design-system/compare/2.6.0...2.8.0) (2020-06-04)
 
 
